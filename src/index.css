@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(230, 230, 230);
+}
+.heading_style{
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+}
+.span_heading{
+    background-color: white;
+}
+.slot_machine{
+    width: 330px;
+    border: 2px solid rgb(133, 122, 122);
+    border-radius: 4px;
+    text-align: center;
+    margin: 100px auto;
+    box-shadow: rgb(116, 116, 116) 1px 1px 10px 1px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 10px;
+    
+}
+.slot_inner{
+    margin: 5px;
+    padding: 5px;
+    align-items: center;
+}
+.heading_style_two{
+    padding: 20px;
+    background-color: #fff;
+}
